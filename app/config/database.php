@@ -3,10 +3,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['port'] = '3306';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '123456';
+$db['default']['hostname'] = '127.0.0.1';
+$db['default']['port'] = '3307';
+$db['default']['username'] = 'admin';
+$db['default']['password'] = '0e693807';
 $db['default']['database'] = 'startbbs';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = 'stb_';
